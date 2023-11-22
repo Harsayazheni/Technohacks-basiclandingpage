@@ -83,4 +83,4 @@ img{
 ```
 
 ## Output
-    ![OUTPUT](./out.png)
+![OUTPUT](./out.png)
