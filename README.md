@@ -83,4 +83,4 @@ img{
 ```
 
 ## Output
-    ![OUTPUT](http://http://harsayazheni.student.saveetha.in:8000/out.png?raw=true)
+    ![OUTPUT](./out.png)
