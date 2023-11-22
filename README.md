@@ -1,4 +1,4 @@
-# BasicLandingPage
+# BasicLandingPage - TechnoHacks
 
 ## Aim
     To create a basic landing page for a company or product that includes a header, footer, and some basic information.
@@ -83,4 +83,4 @@ img{
 ```
 
 ## Output
-    
+    ![OUTPUT](http://http://harsayazheni.student.saveetha.in:8000/out.png?raw=true)
